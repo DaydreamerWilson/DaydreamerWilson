@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaydreamerWilson
 - 👀 I’m currently interested in non-euclidean space rendering, and deep learning algorithms physics simulations
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently learning SDL2
 - 💞️ I’m looking to collaborate on a passionate and loving relationship
 - 📫 How to reach me: utauhane715@gmail.com
 
